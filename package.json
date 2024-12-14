@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass-mq": "^6.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5",
+    "@zerostep/playwright": "^0.1.5"
+  },
+  "scripts": {}
+
+  
+}
+
+
